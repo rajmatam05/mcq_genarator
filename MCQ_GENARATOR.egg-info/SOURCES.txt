@@ -5,5 +5,7 @@ MCQ_GENARATOR.egg-info/SOURCES.txt
 MCQ_GENARATOR.egg-info/dependency_links.txt
 MCQ_GENARATOR.egg-info/requires.txt
 MCQ_GENARATOR.egg-info/top_level.txt
-src/__init__.py
-src/mcqgenrator/__init__.py
+mcqgenrator/__init__.py
+mcqgenrator/logger.py
+mcqgenrator/mcqgenrator.py
+mcqgenrator/utils.py
